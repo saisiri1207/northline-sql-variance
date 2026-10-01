@@ -1,0 +1,4 @@
+channel,actual_revenue,budget_revenue,revenue_var,actual_gm,actual_gm_pct
+Retail,306197.0,307471.0,-1274.0,173326.0,56.6
+DTC,167510.0,161481.0,6029.0,99576.0,59.4
+Wholesale,149538.0,160668.0,-11130.0,83897.0,56.1

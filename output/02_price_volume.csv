@@ -1,0 +1,7 @@
+category,sku,actual_revenue,budget_revenue,total_variance,volume_variance,price_variance
+Snacks,SKU-210,115784.0,123038.0,-7254.0,-6113.0,-1141.0
+Snacks,SKU-220,91460.0,94832.0,-3372.0,-2848.0,-524.0
+Home,SKU-320,71064.0,72618.0,-1554.0,-1554.0,0.0
+Home,SKU-310,62202.0,63546.0,-1344.0,-1344.0,0.0
+Hydration,SKU-100,167323.0,163818.0,3505.0,2052.0,1453.0
+Hydration,SKU-110,115412.0,111768.0,3644.0,2136.0,1508.0

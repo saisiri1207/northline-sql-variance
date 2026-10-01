@@ -1,0 +1,5 @@
+cost_center,cost_center_name,actual_opex,budget_opex,variance,variance_pct
+CC-210,Marketing,616158.0,564750.0,51408.0,9.1
+CC-310,Operations,562368.0,545400.0,16968.0,3.1
+CC-410,G&A,257550.0,257550.0,0.0,0.0
+CC-110,Sales,1049592.0,1060500.0,-10908.0,-1.0

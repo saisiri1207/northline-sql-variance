@@ -1,0 +1,1297 @@
+period,sku,product_name,category,channel,region,list_price,std_cogs,budget_units,budget_price,actual_units,actual_price,forecast_units,forecast_price
+2025-01,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1011,18.0,1011,18.0,1011,18.0
+2025-01,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,795,18.0,795,18.0,795,18.0
+2025-01,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,975,18.0,975,18.0,975,18.0
+2025-01,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,831,18.0,831,18.0,831,18.0
+2025-01,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,433,18.0,459,18.72,459,18.72
+2025-01,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,341,18.0,361,18.72,361,18.72
+2025-01,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,418,18.0,443,18.72,443,18.72
+2025-01,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,356,18.0,377,18.72,377,18.72
+2025-01,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,626,18.0,626,18.0,626,18.0
+2025-01,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,492,18.0,492,18.0,492,18.0
+2025-01,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,604,18.0,604,18.0,604,18.0
+2025-01,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,514,18.0,514,18.0,514,18.0
+2025-01,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,506,24.0,506,24.0,506,24.0
+2025-01,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,397,24.0,397,24.0,397,24.0
+2025-01,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,488,24.0,488,24.0,488,24.0
+2025-01,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,415,24.0,415,24.0,415,24.0
+2025-01,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,337,24.0,357,24.96,357,24.96
+2025-01,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,265,24.0,281,24.96,281,24.96
+2025-01,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,325,24.0,344,24.96,344,24.96
+2025-01,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,277,24.0,294,24.96,294,24.96
+2025-01,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,217,24.0,217,24.0,217,24.0
+2025-01,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,170,24.0,170,24.0,170,24.0
+2025-01,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,209,24.0,209,24.0,209,24.0
+2025-01,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,178,24.0,178,24.0,178,24.0
+2025-01,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1228,12.5,1228,12.5,1228,12.5
+2025-01,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,965,12.5,965,12.5,965,12.5
+2025-01,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1184,12.5,1184,12.5,1184,12.5
+2025-01,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1009,12.5,1009,12.5,1009,12.5
+2025-01,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,217,12.5,217,12.5,217,12.5
+2025-01,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,170,12.5,170,12.5,170,12.5
+2025-01,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,209,12.5,209,12.5,209,12.5
+2025-01,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,178,12.5,178,12.5,178,12.5
+2025-01,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,795,12.5,684,12.12,684,12.12
+2025-01,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,624,12.5,537,12.12,537,12.12
+2025-01,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,766,12.5,659,12.12,659,12.12
+2025-01,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,653,12.5,562,12.12,562,12.12
+2025-01,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,674,16.0,674,16.0,674,16.0
+2025-01,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,530,16.0,530,16.0,530,16.0
+2025-01,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,650,16.0,650,16.0,650,16.0
+2025-01,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,554,16.0,554,16.0,554,16.0
+2025-01,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,385,16.0,385,16.0,385,16.0
+2025-01,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,303,16.0,303,16.0,303,16.0
+2025-01,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,372,16.0,372,16.0,372,16.0
+2025-01,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,316,16.0,316,16.0,316,16.0
+2025-01,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,289,16.0,249,15.52,249,15.52
+2025-01,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,227,16.0,195,15.52,195,15.52
+2025-01,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,279,16.0,240,15.52,240,15.52
+2025-01,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,237,16.0,204,15.52,204,15.52
+2025-01,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,169,42.0,169,42.0,169,42.0
+2025-01,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,132,42.0,132,42.0,132,42.0
+2025-01,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,163,42.0,150,42.0,150,42.0
+2025-01,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,138,42.0,138,42.0,138,42.0
+2025-01,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,108,42.0,108,42.0,108,42.0
+2025-01,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,85,42.0,85,42.0,85,42.0
+2025-01,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,104,42.0,96,42.0,96,42.0
+2025-01,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,89,42.0,89,42.0,89,42.0
+2025-01,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,67,42.0,67,42.0,67,42.0
+2025-01,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,53,42.0,53,42.0,53,42.0
+2025-01,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,65,42.0,60,42.0,60,42.0
+2025-01,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,55,42.0,55,42.0,55,42.0
+2025-01,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,458,14.0,458,14.0,458,14.0
+2025-01,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,359,14.0,359,14.0,359,14.0
+2025-01,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,441,14.0,406,14.0,406,14.0
+2025-01,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,376,14.0,376,14.0,376,14.0
+2025-01,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,530,14.0,530,14.0,530,14.0
+2025-01,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,416,14.0,416,14.0,416,14.0
+2025-01,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,511,14.0,470,14.0,470,14.0
+2025-01,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,435,14.0,435,14.0,435,14.0
+2025-01,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,193,14.0,193,14.0,193,14.0
+2025-01,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,151,14.0,151,14.0,151,14.0
+2025-01,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,186,14.0,171,14.0,171,14.0
+2025-01,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,158,14.0,158,14.0,158,14.0
+2025-02,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1058,18.0,1058,18.0,1058,18.0
+2025-02,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,832,18.0,832,18.0,832,18.0
+2025-02,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1021,18.0,1021,18.0,1021,18.0
+2025-02,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,869,18.0,869,18.0,869,18.0
+2025-02,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,454,18.0,481,18.72,481,18.72
+2025-02,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,356,18.0,377,18.72,377,18.72
+2025-02,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,437,18.0,463,18.72,463,18.72
+2025-02,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,373,18.0,395,18.72,395,18.72
+2025-02,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,655,18.0,655,18.0,655,18.0
+2025-02,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,515,18.0,515,18.0,515,18.0
+2025-02,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,632,18.0,632,18.0,632,18.0
+2025-02,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,538,18.0,538,18.0,538,18.0
+2025-02,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,529,24.0,529,24.0,529,24.0
+2025-02,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,416,24.0,416,24.0,416,24.0
+2025-02,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,510,24.0,510,24.0,510,24.0
+2025-02,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,435,24.0,435,24.0,435,24.0
+2025-02,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,353,24.0,374,24.96,374,24.96
+2025-02,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,277,24.0,294,24.96,294,24.96
+2025-02,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,340,24.0,360,24.96,360,24.96
+2025-02,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,290,24.0,307,24.96,307,24.96
+2025-02,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,227,24.0,227,24.0,227,24.0
+2025-02,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,178,24.0,178,24.0,178,24.0
+2025-02,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,219,24.0,219,24.0,219,24.0
+2025-02,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,186,24.0,186,24.0,186,24.0
+2025-02,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1285,12.5,1285,12.5,1285,12.5
+2025-02,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1010,12.5,1010,12.5,1010,12.5
+2025-02,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1239,12.5,1239,12.5,1239,12.5
+2025-02,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1056,12.5,1056,12.5,1056,12.5
+2025-02,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,227,12.5,227,12.5,227,12.5
+2025-02,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,178,12.5,178,12.5,178,12.5
+2025-02,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,219,12.5,219,12.5,219,12.5
+2025-02,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,186,12.5,186,12.5,186,12.5
+2025-02,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,832,12.5,716,12.12,716,12.12
+2025-02,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,653,12.5,562,12.12,562,12.12
+2025-02,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,802,12.5,690,12.12,690,12.12
+2025-02,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,683,12.5,587,12.12,587,12.12
+2025-02,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,706,16.0,706,16.0,706,16.0
+2025-02,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,554,16.0,554,16.0,554,16.0
+2025-02,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,680,16.0,680,16.0,680,16.0
+2025-02,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,580,16.0,580,16.0,580,16.0
+2025-02,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,403,16.0,403,16.0,403,16.0
+2025-02,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,317,16.0,317,16.0,317,16.0
+2025-02,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,389,16.0,389,16.0,389,16.0
+2025-02,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,331,16.0,331,16.0,331,16.0
+2025-02,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,302,16.0,260,15.52,260,15.52
+2025-02,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,238,16.0,205,15.52,205,15.52
+2025-02,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,292,16.0,251,15.52,251,15.52
+2025-02,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,248,16.0,213,15.52,213,15.52
+2025-02,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,176,42.0,176,42.0,176,42.0
+2025-02,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,139,42.0,139,42.0,139,42.0
+2025-02,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,170,42.0,156,42.0,156,42.0
+2025-02,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,145,42.0,145,42.0,145,42.0
+2025-02,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,113,42.0,113,42.0,113,42.0
+2025-02,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,89,42.0,89,42.0,89,42.0
+2025-02,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,109,42.0,100,42.0,100,42.0
+2025-02,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,93,42.0,93,42.0,93,42.0
+2025-02,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,71,42.0,71,42.0,71,42.0
+2025-02,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,55,42.0,55,42.0,55,42.0
+2025-02,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,68,42.0,63,42.0,63,42.0
+2025-02,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,58,42.0,58,42.0,58,42.0
+2025-02,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,479,14.0,479,14.0,479,14.0
+2025-02,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,376,14.0,376,14.0,376,14.0
+2025-02,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,462,14.0,425,14.0,425,14.0
+2025-02,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,393,14.0,393,14.0,393,14.0
+2025-02,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,554,14.0,554,14.0,554,14.0
+2025-02,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,436,14.0,436,14.0,436,14.0
+2025-02,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,535,14.0,492,14.0,492,14.0
+2025-02,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,455,14.0,455,14.0,455,14.0
+2025-02,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,202,14.0,202,14.0,202,14.0
+2025-02,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,158,14.0,158,14.0,158,14.0
+2025-02,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,194,14.0,178,14.0,178,14.0
+2025-02,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,166,14.0,166,14.0,166,14.0
+2025-03,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1152,18.0,1152,18.0,1152,18.0
+2025-03,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,906,18.0,906,18.0,906,18.0
+2025-03,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1111,18.0,1111,18.0,1111,18.0
+2025-03,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,947,18.0,947,18.0,947,18.0
+2025-03,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,494,18.0,524,18.72,524,18.72
+2025-03,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,388,18.0,411,18.72,411,18.72
+2025-03,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,476,18.0,505,18.72,505,18.72
+2025-03,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,406,18.0,430,18.72,430,18.72
+2025-03,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,713,18.0,713,18.0,713,18.0
+2025-03,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,561,18.0,561,18.0,561,18.0
+2025-03,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,688,18.0,688,18.0,688,18.0
+2025-03,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,586,18.0,586,18.0,586,18.0
+2025-03,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,576,24.0,576,24.0,576,24.0
+2025-03,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,453,24.0,453,24.0,453,24.0
+2025-03,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,556,24.0,556,24.0,556,24.0
+2025-03,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,473,24.0,473,24.0,473,24.0
+2025-03,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,384,24.0,407,24.96,407,24.96
+2025-03,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,302,24.0,320,24.96,320,24.96
+2025-03,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,370,24.0,392,24.96,392,24.96
+2025-03,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,316,24.0,335,24.96,335,24.96
+2025-03,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,247,24.0,247,24.0,247,24.0
+2025-03,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,194,24.0,194,24.0,194,24.0
+2025-03,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,238,24.0,238,24.0,238,24.0
+2025-03,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,203,24.0,203,24.0,203,24.0
+2025-03,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1399,12.5,1399,12.5,1399,12.5
+2025-03,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1100,12.5,1100,12.5,1100,12.5
+2025-03,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1349,12.5,1349,12.5,1349,12.5
+2025-03,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1150,12.5,1150,12.5,1150,12.5
+2025-03,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,247,12.5,247,12.5,247,12.5
+2025-03,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,194,12.5,194,12.5,194,12.5
+2025-03,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,238,12.5,238,12.5,238,12.5
+2025-03,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,203,12.5,203,12.5,203,12.5
+2025-03,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,906,12.5,779,12.12,779,12.12
+2025-03,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,711,12.5,611,12.12,611,12.12
+2025-03,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,873,12.5,751,12.12,751,12.12
+2025-03,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,744,12.5,640,12.12,640,12.12
+2025-03,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,768,16.0,768,16.0,768,16.0
+2025-03,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,604,16.0,604,16.0,604,16.0
+2025-03,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,741,16.0,741,16.0,741,16.0
+2025-03,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,631,16.0,631,16.0,631,16.0
+2025-03,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,439,16.0,439,16.0,439,16.0
+2025-03,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,345,16.0,345,16.0,345,16.0
+2025-03,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,423,16.0,423,16.0,423,16.0
+2025-03,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,361,16.0,361,16.0,361,16.0
+2025-03,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,329,16.0,283,15.52,283,15.52
+2025-03,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,259,16.0,223,15.52,223,15.52
+2025-03,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,318,16.0,273,15.52,273,15.52
+2025-03,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,270,16.0,232,15.52,232,15.52
+2025-03,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,192,42.0,192,42.0,192,42.0
+2025-03,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,151,42.0,151,42.0,151,42.0
+2025-03,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,185,42.0,170,42.0,170,42.0
+2025-03,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,158,42.0,158,42.0,158,42.0
+2025-03,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,123,42.0,123,42.0,123,42.0
+2025-03,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,97,42.0,97,42.0,97,42.0
+2025-03,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,119,42.0,109,42.0,109,42.0
+2025-03,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,101,42.0,101,42.0,101,42.0
+2025-03,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,77,42.0,77,42.0,77,42.0
+2025-03,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,60,42.0,60,42.0,60,42.0
+2025-03,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,74,42.0,68,42.0,68,42.0
+2025-03,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,63,42.0,63,42.0,63,42.0
+2025-03,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,521,14.0,521,14.0,521,14.0
+2025-03,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,410,14.0,410,14.0,410,14.0
+2025-03,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,503,14.0,463,14.0,463,14.0
+2025-03,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,428,14.0,428,14.0,428,14.0
+2025-03,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,604,14.0,604,14.0,604,14.0
+2025-03,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,474,14.0,474,14.0,474,14.0
+2025-03,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,582,14.0,535,14.0,535,14.0
+2025-03,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,496,14.0,496,14.0,496,14.0
+2025-03,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,220,14.0,220,14.0,220,14.0
+2025-03,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,172,14.0,172,14.0,172,14.0
+2025-03,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,212,14.0,195,14.0,195,14.0
+2025-03,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,180,14.0,180,14.0,180,14.0
+2025-04,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1223,18.0,1223,18.0,1223,18.0
+2025-04,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,961,18.0,961,18.0,961,18.0
+2025-04,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1179,18.0,1179,18.0,1179,18.0
+2025-04,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,1005,18.0,1005,18.0,1005,18.0
+2025-04,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,524,18.0,555,18.72,555,18.72
+2025-04,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,412,18.0,437,18.72,437,18.72
+2025-04,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,505,18.0,535,18.72,535,18.72
+2025-04,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,431,18.0,457,18.72,457,18.72
+2025-04,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,757,18.0,757,18.0,757,18.0
+2025-04,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,595,18.0,595,18.0,595,18.0
+2025-04,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,730,18.0,730,18.0,730,18.0
+2025-04,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,622,18.0,622,18.0,622,18.0
+2025-04,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,612,24.0,612,24.0,612,24.0
+2025-04,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,480,24.0,480,24.0,480,24.0
+2025-04,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,590,24.0,590,24.0,590,24.0
+2025-04,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,502,24.0,502,24.0,502,24.0
+2025-04,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,408,24.0,432,24.96,432,24.96
+2025-04,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,320,24.0,339,24.96,339,24.96
+2025-04,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,393,24.0,417,24.96,417,24.96
+2025-04,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,335,24.0,355,24.96,355,24.96
+2025-04,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,262,24.0,262,24.0,262,24.0
+2025-04,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,206,24.0,206,24.0,206,24.0
+2025-04,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,253,24.0,253,24.0,253,24.0
+2025-04,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,215,24.0,215,24.0,215,24.0
+2025-04,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1485,12.5,1485,12.5,1485,12.5
+2025-04,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1167,12.5,1167,12.5,1167,12.5
+2025-04,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1432,12.5,1432,12.5,1432,12.5
+2025-04,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1220,12.5,1220,12.5,1220,12.5
+2025-04,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,262,12.5,262,12.5,262,12.5
+2025-04,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,206,12.5,206,12.5,206,12.5
+2025-04,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,253,12.5,253,12.5,253,12.5
+2025-04,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,215,12.5,215,12.5,215,12.5
+2025-04,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,961,12.5,826,12.12,826,12.12
+2025-04,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,755,12.5,649,12.12,649,12.12
+2025-04,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,927,12.5,797,12.12,797,12.12
+2025-04,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,789,12.5,679,12.12,679,12.12
+2025-04,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,815,16.0,815,16.0,815,16.0
+2025-04,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,641,16.0,641,16.0,641,16.0
+2025-04,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,786,16.0,786,16.0,786,16.0
+2025-04,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,670,16.0,670,16.0,670,16.0
+2025-04,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,466,16.0,466,16.0,466,16.0
+2025-04,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,366,16.0,366,16.0,366,16.0
+2025-04,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,449,16.0,449,16.0,449,16.0
+2025-04,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,383,16.0,383,16.0,383,16.0
+2025-04,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,349,16.0,300,15.52,300,15.52
+2025-04,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,275,16.0,236,15.52,236,15.52
+2025-04,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,337,16.0,290,15.52,290,15.52
+2025-04,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,287,16.0,247,15.52,247,15.52
+2025-04,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,204,42.0,204,42.0,204,42.0
+2025-04,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,160,42.0,160,42.0,160,42.0
+2025-04,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,197,42.0,181,42.0,181,42.0
+2025-04,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,167,42.0,167,42.0,167,42.0
+2025-04,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,131,42.0,131,42.0,131,42.0
+2025-04,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,103,42.0,103,42.0,103,42.0
+2025-04,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,126,42.0,116,42.0,116,42.0
+2025-04,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,108,42.0,108,42.0,108,42.0
+2025-04,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,82,42.0,82,42.0,82,42.0
+2025-04,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,64,42.0,64,42.0,64,42.0
+2025-04,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,79,42.0,73,42.0,73,42.0
+2025-04,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,67,42.0,67,42.0,67,42.0
+2025-04,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,553,14.0,553,14.0,553,14.0
+2025-04,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,435,14.0,435,14.0,435,14.0
+2025-04,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,534,14.0,491,14.0,491,14.0
+2025-04,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,454,14.0,454,14.0,454,14.0
+2025-04,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,641,14.0,641,14.0,641,14.0
+2025-04,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,503,14.0,503,14.0,503,14.0
+2025-04,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,618,14.0,569,14.0,569,14.0
+2025-04,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,526,14.0,526,14.0,526,14.0
+2025-04,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,233,14.0,233,14.0,233,14.0
+2025-04,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,183,14.0,183,14.0,183,14.0
+2025-04,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,225,14.0,207,14.0,207,14.0
+2025-04,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,191,14.0,191,14.0,191,14.0
+2025-05,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1270,18.0,1270,18.0,1270,18.0
+2025-05,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,998,18.0,998,18.0,998,18.0
+2025-05,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1225,18.0,1225,18.0,1225,18.0
+2025-05,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,1043,18.0,1043,18.0,1043,18.0
+2025-05,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,544,18.0,577,18.72,577,18.72
+2025-05,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,428,18.0,454,18.72,454,18.72
+2025-05,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,525,18.0,556,18.72,556,18.72
+2025-05,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,447,18.0,474,18.72,474,18.72
+2025-05,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,786,18.0,786,18.0,786,18.0
+2025-05,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,618,18.0,618,18.0,618,18.0
+2025-05,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,758,18.0,758,18.0,758,18.0
+2025-05,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,646,18.0,646,18.0,646,18.0
+2025-05,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,635,24.0,635,24.0,635,24.0
+2025-05,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,499,24.0,499,24.0,499,24.0
+2025-05,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,612,24.0,612,24.0,612,24.0
+2025-05,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,522,24.0,522,24.0,522,24.0
+2025-05,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,423,24.0,448,24.96,448,24.96
+2025-05,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,333,24.0,353,24.96,353,24.96
+2025-05,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,408,24.0,432,24.96,432,24.96
+2025-05,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,348,24.0,369,24.96,369,24.96
+2025-05,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,272,24.0,272,24.0,272,24.0
+2025-05,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,214,24.0,214,24.0,214,24.0
+2025-05,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,262,24.0,262,24.0,262,24.0
+2025-05,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,224,24.0,224,24.0,224,24.0
+2025-05,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1542,12.5,1542,12.5,1542,12.5
+2025-05,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1212,12.5,1212,12.5,1212,12.5
+2025-05,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1487,12.5,1487,12.5,1487,12.5
+2025-05,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1267,12.5,1267,12.5,1267,12.5
+2025-05,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,272,12.5,272,12.5,272,12.5
+2025-05,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,214,12.5,214,12.5,214,12.5
+2025-05,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,262,12.5,262,12.5,262,12.5
+2025-05,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,224,12.5,224,12.5,224,12.5
+2025-05,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,998,12.5,858,12.12,858,12.12
+2025-05,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,784,12.5,674,12.12,674,12.12
+2025-05,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,962,12.5,827,12.12,827,12.12
+2025-05,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,820,12.5,705,12.12,705,12.12
+2025-05,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,847,16.0,847,16.0,847,16.0
+2025-05,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,665,16.0,665,16.0,665,16.0
+2025-05,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,816,16.0,816,16.0,816,16.0
+2025-05,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,696,16.0,696,16.0,696,16.0
+2025-05,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,484,16.0,484,16.0,484,16.0
+2025-05,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,380,16.0,380,16.0,380,16.0
+2025-05,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,467,16.0,467,16.0,467,16.0
+2025-05,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,397,16.0,397,16.0,397,16.0
+2025-05,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,363,16.0,312,15.52,312,15.52
+2025-05,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,285,16.0,245,15.52,245,15.52
+2025-05,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,350,16.0,301,15.52,301,15.52
+2025-05,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,298,16.0,256,15.52,256,15.52
+2025-05,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,212,42.0,212,42.0,212,42.0
+2025-05,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,166,42.0,166,42.0,166,42.0
+2025-05,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,204,42.0,188,42.0,188,42.0
+2025-05,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,174,42.0,174,42.0,174,42.0
+2025-05,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,136,42.0,136,42.0,136,42.0
+2025-05,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,107,42.0,107,42.0,107,42.0
+2025-05,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,131,42.0,121,42.0,121,42.0
+2025-05,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,112,42.0,112,42.0,112,42.0
+2025-05,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,85,42.0,85,42.0,85,42.0
+2025-05,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,67,42.0,67,42.0,67,42.0
+2025-05,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,82,42.0,75,42.0,75,42.0
+2025-05,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,70,42.0,70,42.0,70,42.0
+2025-05,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,575,14.0,575,14.0,575,14.0
+2025-05,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,451,14.0,451,14.0,451,14.0
+2025-05,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,554,14.0,510,14.0,510,14.0
+2025-05,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,472,14.0,472,14.0,472,14.0
+2025-05,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,665,14.0,665,14.0,665,14.0
+2025-05,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,523,14.0,523,14.0,523,14.0
+2025-05,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,642,14.0,591,14.0,591,14.0
+2025-05,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,546,14.0,546,14.0,546,14.0
+2025-05,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,242,14.0,242,14.0,242,14.0
+2025-05,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,190,14.0,190,14.0,190,14.0
+2025-05,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,233,14.0,214,14.0,214,14.0
+2025-05,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,199,14.0,199,14.0,199,14.0
+2025-06,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1317,18.0,1317,18.0,1317,18.0
+2025-06,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,1035,18.0,1035,18.0,1035,18.0
+2025-06,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1270,18.0,1270,18.0,1270,18.0
+2025-06,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,1082,18.0,1082,18.0,1082,18.0
+2025-06,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,564,18.0,598,18.72,598,18.72
+2025-06,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,444,18.0,471,18.72,471,18.72
+2025-06,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,544,18.0,577,18.72,577,18.72
+2025-06,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,464,18.0,492,18.72,492,18.72
+2025-06,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,815,18.0,815,18.0,815,18.0
+2025-06,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,641,18.0,641,18.0,641,18.0
+2025-06,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,786,18.0,786,18.0,786,18.0
+2025-06,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,670,18.0,670,18.0,670,18.0
+2025-06,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,659,24.0,659,24.0,659,24.0
+2025-06,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,517,24.0,517,24.0,517,24.0
+2025-06,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,635,24.0,635,24.0,635,24.0
+2025-06,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,541,24.0,541,24.0,541,24.0
+2025-06,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,439,24.0,465,24.96,465,24.96
+2025-06,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,345,24.0,366,24.96,366,24.96
+2025-06,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,423,24.0,448,24.96,448,24.96
+2025-06,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,361,24.0,383,24.96,383,24.96
+2025-06,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,282,24.0,282,24.0,282,24.0
+2025-06,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,222,24.0,222,24.0,222,24.0
+2025-06,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,272,24.0,272,24.0,272,24.0
+2025-06,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,232,24.0,232,24.0,232,24.0
+2025-06,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1599,12.5,1599,12.5,1599,12.5
+2025-06,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1257,12.5,1257,12.5,1257,12.5
+2025-06,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1542,12.5,1542,12.5,1542,12.5
+2025-06,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1314,12.5,1314,12.5,1314,12.5
+2025-06,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,282,12.5,282,12.5,282,12.5
+2025-06,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,222,12.5,222,12.5,222,12.5
+2025-06,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,272,12.5,272,12.5,272,12.5
+2025-06,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,232,12.5,232,12.5,232,12.5
+2025-06,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,1035,12.5,890,12.12,890,12.12
+2025-06,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,813,12.5,699,12.12,699,12.12
+2025-06,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,998,12.5,858,12.12,858,12.12
+2025-06,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,850,12.5,731,12.12,731,12.12
+2025-06,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,878,16.0,878,16.0,878,16.0
+2025-06,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,690,16.0,690,16.0,690,16.0
+2025-06,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,847,16.0,847,16.0,847,16.0
+2025-06,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,721,16.0,721,16.0,721,16.0
+2025-06,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,502,16.0,502,16.0,502,16.0
+2025-06,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,394,16.0,394,16.0,394,16.0
+2025-06,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,484,16.0,484,16.0,484,16.0
+2025-06,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,412,16.0,412,16.0,412,16.0
+2025-06,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,376,16.0,323,15.52,323,15.52
+2025-06,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,296,16.0,255,15.52,255,15.52
+2025-06,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,363,16.0,312,15.52,312,15.52
+2025-06,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,309,16.0,266,15.52,266,15.52
+2025-06,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,220,42.0,220,42.0,220,42.0
+2025-06,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,172,42.0,172,42.0,172,42.0
+2025-06,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,212,42.0,195,42.0,195,42.0
+2025-06,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,180,42.0,180,42.0,180,42.0
+2025-06,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,141,42.0,141,42.0,141,42.0
+2025-06,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,111,42.0,111,42.0,111,42.0
+2025-06,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,136,42.0,125,42.0,125,42.0
+2025-06,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,116,42.0,116,42.0,116,42.0
+2025-06,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,88,42.0,88,42.0,88,42.0
+2025-06,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,69,42.0,69,42.0,69,42.0
+2025-06,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,85,42.0,78,42.0,78,42.0
+2025-06,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,72,42.0,72,42.0,72,42.0
+2025-06,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,596,14.0,596,14.0,596,14.0
+2025-06,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,468,14.0,468,14.0,468,14.0
+2025-06,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,575,14.0,529,14.0,529,14.0
+2025-06,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,489,14.0,489,14.0,489,14.0
+2025-06,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,690,14.0,690,14.0,690,14.0
+2025-06,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,542,14.0,542,14.0,542,14.0
+2025-06,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,665,14.0,612,14.0,612,14.0
+2025-06,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,567,14.0,567,14.0,567,14.0
+2025-06,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,251,14.0,251,14.0,251,14.0
+2025-06,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,197,14.0,197,14.0,197,14.0
+2025-06,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,242,14.0,223,14.0,223,14.0
+2025-06,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,206,14.0,206,14.0,206,14.0
+2025-07,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1247,18.0,1247,18.0,1247,18.0
+2025-07,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,979,18.0,979,18.0,979,18.0
+2025-07,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1202,18.0,1202,18.0,1202,18.0
+2025-07,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,1024,18.0,1024,18.0,1024,18.0
+2025-07,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,534,18.0,566,18.72,566,18.72
+2025-07,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,420,18.0,445,18.72,445,18.72
+2025-07,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,515,18.0,546,18.72,546,18.72
+2025-07,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,439,18.0,465,18.72,465,18.72
+2025-07,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,772,18.0,772,18.0,772,18.0
+2025-07,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,606,18.0,606,18.0,606,18.0
+2025-07,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,744,18.0,744,18.0,744,18.0
+2025-07,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,634,18.0,634,18.0,634,18.0
+2025-07,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,623,24.0,623,24.0,623,24.0
+2025-07,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,490,24.0,490,24.0,490,24.0
+2025-07,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,601,24.0,601,24.0,601,24.0
+2025-07,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,512,24.0,512,24.0,512,24.0
+2025-07,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,416,24.0,441,24.96,441,24.96
+2025-07,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,326,24.0,346,24.96,346,24.96
+2025-07,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,401,24.0,425,24.96,425,24.96
+2025-07,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,341,24.0,361,24.96,361,24.96
+2025-07,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,267,24.0,267,24.0,267,24.0
+2025-07,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,210,24.0,210,24.0,210,24.0
+2025-07,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,258,24.0,258,24.0,258,24.0
+2025-07,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,219,24.0,219,24.0,219,24.0
+2025-07,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1514,12.5,1514,12.5,1514,12.5
+2025-07,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1189,12.5,1189,12.5,1189,12.5
+2025-07,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1460,12.5,1460,12.5,1460,12.5
+2025-07,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1243,12.5,1243,12.5,1243,12.5
+2025-07,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,267,12.5,267,12.5,267,12.5
+2025-07,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,210,12.5,210,12.5,210,12.5
+2025-07,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,258,12.5,258,12.5,258,12.5
+2025-07,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,219,12.5,219,12.5,219,12.5
+2025-07,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,979,12.5,842,12.12,842,12.12
+2025-07,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,770,12.5,662,12.12,662,12.12
+2025-07,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,944,12.5,812,12.12,812,12.12
+2025-07,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,805,12.5,692,12.12,692,12.12
+2025-07,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,831,16.0,831,16.0,831,16.0
+2025-07,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,653,16.0,653,16.0,653,16.0
+2025-07,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,801,16.0,801,16.0,801,16.0
+2025-07,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,683,16.0,683,16.0,683,16.0
+2025-07,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,475,16.0,475,16.0,475,16.0
+2025-07,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,373,16.0,373,16.0,373,16.0
+2025-07,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,458,16.0,458,16.0,458,16.0
+2025-07,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,390,16.0,390,16.0,390,16.0
+2025-07,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,356,16.0,306,15.52,306,15.52
+2025-07,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,280,16.0,241,15.52,241,15.52
+2025-07,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,343,16.0,295,15.52,295,15.52
+2025-07,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,293,16.0,252,15.52,252,15.52
+2025-07,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,208,42.0,208,42.0,208,42.0
+2025-07,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,163,42.0,163,42.0,163,42.0
+2025-07,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,200,42.0,184,42.0,184,42.0
+2025-07,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,171,42.0,171,42.0,171,42.0
+2025-07,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,134,42.0,134,42.0,134,42.0
+2025-07,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,105,42.0,105,42.0,105,42.0
+2025-07,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,129,42.0,119,42.0,119,42.0
+2025-07,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,110,42.0,110,42.0,110,42.0
+2025-07,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,83,42.0,83,42.0,83,42.0
+2025-07,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,65,42.0,65,42.0,65,42.0
+2025-07,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,80,42.0,74,42.0,74,42.0
+2025-07,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,68,42.0,68,42.0,68,42.0
+2025-07,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,564,14.0,564,14.0,564,14.0
+2025-07,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,443,14.0,443,14.0,443,14.0
+2025-07,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,544,14.0,500,14.0,500,14.0
+2025-07,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,463,14.0,463,14.0,463,14.0
+2025-07,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,653,14.0,653,14.0,653,14.0
+2025-07,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,513,14.0,513,14.0,513,14.0
+2025-07,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,630,14.0,580,14.0,580,14.0
+2025-07,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,536,14.0,536,14.0,536,14.0
+2025-07,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,237,14.0,237,14.0,237,14.0
+2025-07,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,187,14.0,187,14.0,187,14.0
+2025-07,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,229,14.0,211,14.0,211,14.0
+2025-07,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,195,14.0,195,14.0,195,14.0
+2025-08,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1200,18.0,1200,18.0,1200,18.0
+2025-08,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,942,18.0,942,18.0,942,18.0
+2025-08,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1157,18.0,1157,18.0,1157,18.0
+2025-08,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,985,18.0,985,18.0,985,18.0
+2025-08,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,514,18.0,545,18.72,545,18.72
+2025-08,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,404,18.0,428,18.72,428,18.72
+2025-08,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,496,18.0,526,18.72,526,18.72
+2025-08,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,422,18.0,447,18.72,447,18.72
+2025-08,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,743,18.0,743,18.0,743,18.0
+2025-08,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,583,18.0,583,18.0,583,18.0
+2025-08,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,716,18.0,716,18.0,716,18.0
+2025-08,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,610,18.0,610,18.0,610,18.0
+2025-08,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,600,24.0,600,24.0,600,24.0
+2025-08,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,471,24.0,471,24.0,471,24.0
+2025-08,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,578,24.0,578,24.0,578,24.0
+2025-08,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,493,24.0,493,24.0,493,24.0
+2025-08,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,400,24.0,424,24.96,424,24.96
+2025-08,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,314,24.0,333,24.96,333,24.96
+2025-08,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,386,24.0,409,24.96,409,24.96
+2025-08,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,328,24.0,348,24.96,348,24.96
+2025-08,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,257,24.0,257,24.0,257,24.0
+2025-08,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,202,24.0,202,24.0,202,24.0
+2025-08,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,248,24.0,248,24.0,248,24.0
+2025-08,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,211,24.0,211,24.0,211,24.0
+2025-08,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1457,12.5,1457,12.5,1457,12.5
+2025-08,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1144,12.5,1144,12.5,1144,12.5
+2025-08,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1405,12.5,1405,12.5,1405,12.5
+2025-08,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1196,12.5,1196,12.5,1196,12.5
+2025-08,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,257,12.5,257,12.5,257,12.5
+2025-08,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,202,12.5,202,12.5,202,12.5
+2025-08,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,248,12.5,248,12.5,248,12.5
+2025-08,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,211,12.5,211,12.5,211,12.5
+2025-08,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,942,12.5,810,12.12,810,12.12
+2025-08,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,741,12.5,637,12.12,637,12.12
+2025-08,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,909,12.5,782,12.12,782,12.12
+2025-08,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,774,12.5,666,12.12,666,12.12
+2025-08,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,800,16.0,800,16.0,800,16.0
+2025-08,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,628,16.0,628,16.0,628,16.0
+2025-08,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,771,16.0,771,16.0,771,16.0
+2025-08,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,657,16.0,657,16.0,657,16.0
+2025-08,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,457,16.0,457,16.0,457,16.0
+2025-08,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,359,16.0,359,16.0,359,16.0
+2025-08,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,441,16.0,441,16.0,441,16.0
+2025-08,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,375,16.0,375,16.0,375,16.0
+2025-08,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,343,16.0,295,15.52,295,15.52
+2025-08,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,269,16.0,231,15.52,231,15.52
+2025-08,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,330,16.0,284,15.52,284,15.52
+2025-08,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,282,16.0,243,15.52,243,15.52
+2025-08,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,200,42.0,200,42.0,200,42.0
+2025-08,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,157,42.0,157,42.0,157,42.0
+2025-08,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,193,42.0,178,42.0,178,42.0
+2025-08,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,164,42.0,164,42.0,164,42.0
+2025-08,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,129,42.0,129,42.0,129,42.0
+2025-08,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,101,42.0,101,42.0,101,42.0
+2025-08,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,124,42.0,114,42.0,114,42.0
+2025-08,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,106,42.0,106,42.0,106,42.0
+2025-08,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,80,42.0,80,42.0,80,42.0
+2025-08,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,63,42.0,63,42.0,63,42.0
+2025-08,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,77,42.0,71,42.0,71,42.0
+2025-08,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,66,42.0,66,42.0,66,42.0
+2025-08,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,543,14.0,543,14.0,543,14.0
+2025-08,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,426,14.0,426,14.0,426,14.0
+2025-08,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,523,14.0,481,14.0,481,14.0
+2025-08,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,446,14.0,446,14.0,446,14.0
+2025-08,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,628,14.0,628,14.0,628,14.0
+2025-08,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,494,14.0,494,14.0,494,14.0
+2025-08,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,606,14.0,558,14.0,558,14.0
+2025-08,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,516,14.0,516,14.0,516,14.0
+2025-08,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,228,14.0,228,14.0,228,14.0
+2025-08,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,180,14.0,180,14.0,180,14.0
+2025-08,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,220,14.0,202,14.0,202,14.0
+2025-08,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,188,14.0,188,14.0,188,14.0
+2025-09,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1294,18.0,1294,18.0,1294,18.0
+2025-09,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,1016,18.0,1016,18.0,1016,18.0
+2025-09,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1247,18.0,1247,18.0,1247,18.0
+2025-09,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,1063,18.0,1063,18.0,1063,18.0
+2025-09,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,554,18.0,587,18.72,587,18.72
+2025-09,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,436,18.0,462,18.72,462,18.72
+2025-09,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,535,18.0,567,18.72,567,18.72
+2025-09,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,455,18.0,482,18.72,482,18.72
+2025-09,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,801,18.0,801,18.0,801,18.0
+2025-09,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,629,18.0,629,18.0,629,18.0
+2025-09,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,772,18.0,772,18.0,772,18.0
+2025-09,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,658,18.0,658,18.0,658,18.0
+2025-09,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,647,24.0,647,24.0,647,24.0
+2025-09,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,508,24.0,508,24.0,508,24.0
+2025-09,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,624,24.0,624,24.0,624,24.0
+2025-09,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,531,24.0,531,24.0,531,24.0
+2025-09,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,431,24.0,457,24.96,457,24.96
+2025-09,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,339,24.0,359,24.96,359,24.96
+2025-09,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,416,24.0,441,24.96,441,24.96
+2025-09,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,354,24.0,375,24.96,375,24.96
+2025-09,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,277,24.0,277,24.0,277,24.0
+2025-09,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,218,24.0,218,24.0,218,24.0
+2025-09,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,267,24.0,267,24.0,267,24.0
+2025-09,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,228,24.0,228,24.0,228,24.0
+2025-09,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1571,12.5,1571,12.5,1571,12.5
+2025-09,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1234,12.5,1234,12.5,1234,12.5
+2025-09,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1515,12.5,1515,12.5,1515,12.5
+2025-09,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1290,12.5,1290,12.5,1290,12.5
+2025-09,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,277,12.5,277,12.5,277,12.5
+2025-09,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,218,12.5,218,12.5,218,12.5
+2025-09,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,267,12.5,267,12.5,267,12.5
+2025-09,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,228,12.5,228,12.5,228,12.5
+2025-09,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,1016,12.5,874,12.12,874,12.12
+2025-09,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,799,12.5,687,12.12,687,12.12
+2025-09,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,980,12.5,843,12.12,843,12.12
+2025-09,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,835,12.5,718,12.12,718,12.12
+2025-09,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,862,16.0,862,16.0,862,16.0
+2025-09,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,678,16.0,678,16.0,678,16.0
+2025-09,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,832,16.0,832,16.0,832,16.0
+2025-09,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,708,16.0,708,16.0,708,16.0
+2025-09,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,493,16.0,493,16.0,493,16.0
+2025-09,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,387,16.0,387,16.0,387,16.0
+2025-09,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,475,16.0,475,16.0,475,16.0
+2025-09,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,405,16.0,405,16.0,405,16.0
+2025-09,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,370,16.0,318,15.52,318,15.52
+2025-09,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,290,16.0,249,15.52,249,15.52
+2025-09,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,356,16.0,306,15.52,306,15.52
+2025-09,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,304,16.0,261,15.52,261,15.52
+2025-09,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,216,42.0,216,42.0,216,42.0
+2025-09,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,169,42.0,169,42.0,169,42.0
+2025-09,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,208,42.0,191,42.0,191,42.0
+2025-09,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,177,42.0,177,42.0,177,42.0
+2025-09,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,139,42.0,139,42.0,139,42.0
+2025-09,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,109,42.0,109,42.0,109,42.0
+2025-09,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,134,42.0,123,42.0,123,42.0
+2025-09,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,114,42.0,114,42.0,114,42.0
+2025-09,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,86,42.0,86,42.0,86,42.0
+2025-09,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,68,42.0,68,42.0,68,42.0
+2025-09,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,83,42.0,76,42.0,76,42.0
+2025-09,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,71,42.0,71,42.0,71,42.0
+2025-09,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,585,14.0,585,14.0,585,14.0
+2025-09,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,460,14.0,460,14.0,460,14.0
+2025-09,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,564,14.0,519,14.0,519,14.0
+2025-09,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,481,14.0,481,14.0,481,14.0
+2025-09,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,678,14.0,678,14.0,678,14.0
+2025-09,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,532,14.0,532,14.0,532,14.0
+2025-09,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,653,14.0,601,14.0,601,14.0
+2025-09,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,557,14.0,557,14.0,557,14.0
+2025-09,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,246,14.0,246,14.0,246,14.0
+2025-09,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,194,14.0,194,14.0,194,14.0
+2025-09,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,238,14.0,219,14.0,219,14.0
+2025-09,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,202,14.0,202,14.0,202,14.0
+2025-10,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1364,18.0,1364,18.0,1364,18.0
+2025-10,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,1072,18.0,1072,18.0,1072,18.0
+2025-10,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1315,18.0,1315,18.0,1315,18.0
+2025-10,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,1121,18.0,1121,18.0,1121,18.0
+2025-10,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,585,18.0,620,18.72,620,18.72
+2025-10,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,459,18.0,487,18.72,487,18.72
+2025-10,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,564,18.0,598,18.72,598,18.72
+2025-10,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,480,18.0,509,18.72,509,18.72
+2025-10,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,844,18.0,844,18.0,844,18.0
+2025-10,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,664,18.0,664,18.0,664,18.0
+2025-10,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,814,18.0,814,18.0,814,18.0
+2025-10,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,694,18.0,694,18.0,694,18.0
+2025-10,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,682,24.0,682,24.0,682,24.0
+2025-10,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,536,24.0,536,24.0,536,24.0
+2025-10,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,658,24.0,658,24.0,658,24.0
+2025-10,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,560,24.0,560,24.0,560,24.0
+2025-10,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,455,24.0,482,24.96,482,24.96
+2025-10,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,357,24.0,378,24.96,378,24.96
+2025-10,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,438,24.0,464,24.96,464,24.96
+2025-10,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,374,24.0,396,24.96,396,24.96
+2025-10,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,292,24.0,292,24.0,292,24.0
+2025-10,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,230,24.0,230,24.0,230,24.0
+2025-10,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,282,24.0,282,24.0,282,24.0
+2025-10,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,240,24.0,240,24.0,240,24.0
+2025-10,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1656,12.5,1656,12.5,1656,12.5
+2025-10,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1302,12.5,1302,12.5,1302,12.5
+2025-10,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1597,12.5,1597,12.5,1597,12.5
+2025-10,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1361,12.5,1361,12.5,1361,12.5
+2025-10,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,292,12.5,292,12.5,292,12.5
+2025-10,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,230,12.5,230,12.5,230,12.5
+2025-10,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,282,12.5,282,12.5,282,12.5
+2025-10,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,240,12.5,240,12.5,240,12.5
+2025-10,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,1072,12.5,922,12.12,922,12.12
+2025-10,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,842,12.5,724,12.12,724,12.12
+2025-10,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,1034,12.5,889,12.12,889,12.12
+2025-10,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,880,12.5,757,12.12,757,12.12
+2025-10,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,909,16.0,909,16.0,909,16.0
+2025-10,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,715,16.0,715,16.0,715,16.0
+2025-10,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,877,16.0,877,16.0,877,16.0
+2025-10,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,747,16.0,747,16.0,747,16.0
+2025-10,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,520,16.0,520,16.0,520,16.0
+2025-10,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,408,16.0,408,16.0,408,16.0
+2025-10,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,501,16.0,501,16.0,501,16.0
+2025-10,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,427,16.0,427,16.0,427,16.0
+2025-10,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,390,16.0,335,15.52,335,15.52
+2025-10,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,306,16.0,263,15.52,263,15.52
+2025-10,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,376,16.0,323,15.52,323,15.52
+2025-10,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,320,16.0,275,15.52,275,15.52
+2025-10,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,227,42.0,227,42.0,227,42.0
+2025-10,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,179,42.0,179,42.0,179,42.0
+2025-10,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,219,42.0,201,42.0,201,42.0
+2025-10,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,187,42.0,187,42.0,187,42.0
+2025-10,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,146,42.0,146,42.0,146,42.0
+2025-10,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,115,42.0,115,42.0,115,42.0
+2025-10,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,141,42.0,130,42.0,130,42.0
+2025-10,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,120,42.0,120,42.0,120,42.0
+2025-10,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,91,42.0,91,42.0,91,42.0
+2025-10,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,71,42.0,71,42.0,71,42.0
+2025-10,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,88,42.0,81,42.0,81,42.0
+2025-10,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,75,42.0,75,42.0,75,42.0
+2025-10,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,617,14.0,617,14.0,617,14.0
+2025-10,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,485,14.0,485,14.0,485,14.0
+2025-10,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,595,14.0,547,14.0,547,14.0
+2025-10,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,507,14.0,507,14.0,507,14.0
+2025-10,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,715,14.0,715,14.0,715,14.0
+2025-10,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,561,14.0,561,14.0,561,14.0
+2025-10,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,689,14.0,634,14.0,634,14.0
+2025-10,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,587,14.0,587,14.0,587,14.0
+2025-10,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,260,14.0,260,14.0,260,14.0
+2025-10,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,204,14.0,204,14.0,204,14.0
+2025-10,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,251,14.0,231,14.0,231,14.0
+2025-10,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,213,14.0,213,14.0,213,14.0
+2025-11,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1435,18.0,1435,18.0,1435,18.0
+2025-11,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,1127,18.0,1127,18.0,1127,18.0
+2025-11,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1383,18.0,1383,18.0,1383,18.0
+2025-11,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,1179,18.0,1179,18.0,1179,18.0
+2025-11,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,615,18.0,652,18.72,652,18.72
+2025-11,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,483,18.0,512,18.72,512,18.72
+2025-11,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,593,18.0,629,18.72,629,18.72
+2025-11,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,505,18.0,535,18.72,535,18.72
+2025-11,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,888,18.0,888,18.0,888,18.0
+2025-11,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,698,18.0,698,18.0,698,18.0
+2025-11,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,856,18.0,856,18.0,856,18.0
+2025-11,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,730,18.0,730,18.0,730,18.0
+2025-11,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,717,24.0,717,24.0,717,24.0
+2025-11,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,564,24.0,564,24.0,564,24.0
+2025-11,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,692,24.0,692,24.0,692,24.0
+2025-11,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,589,24.0,589,24.0,589,24.0
+2025-11,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,478,24.0,507,24.96,507,24.96
+2025-11,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,376,24.0,399,24.96,399,24.96
+2025-11,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,461,24.0,489,24.96,489,24.96
+2025-11,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,393,24.0,417,24.96,417,24.96
+2025-11,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,307,24.0,307,24.0,307,24.0
+2025-11,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,242,24.0,242,24.0,242,24.0
+2025-11,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,296,24.0,296,24.0,296,24.0
+2025-11,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,253,24.0,253,24.0,253,24.0
+2025-11,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1742,12.5,1742,12.5,1742,12.5
+2025-11,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1369,12.5,1369,12.5,1369,12.5
+2025-11,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1680,12.5,1680,12.5,1680,12.5
+2025-11,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1431,12.5,1431,12.5,1431,12.5
+2025-11,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,307,12.5,307,12.5,307,12.5
+2025-11,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,242,12.5,242,12.5,242,12.5
+2025-11,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,296,12.5,296,12.5,296,12.5
+2025-11,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,253,12.5,253,12.5,253,12.5
+2025-11,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,1127,12.5,969,12.12,969,12.12
+2025-11,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,886,12.5,762,12.12,762,12.12
+2025-11,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,1087,12.5,935,12.12,935,12.12
+2025-11,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,926,12.5,796,12.12,796,12.12
+2025-11,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,956,16.0,956,16.0,956,16.0
+2025-11,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,752,16.0,752,16.0,752,16.0
+2025-11,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,922,16.0,922,16.0,922,16.0
+2025-11,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,786,16.0,786,16.0,786,16.0
+2025-11,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,547,16.0,547,16.0,547,16.0
+2025-11,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,429,16.0,429,16.0,429,16.0
+2025-11,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,527,16.0,527,16.0,527,16.0
+2025-11,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,449,16.0,449,16.0,449,16.0
+2025-11,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,410,16.0,353,15.52,353,15.52
+2025-11,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,322,16.0,277,15.52,277,15.52
+2025-11,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,395,16.0,340,15.52,340,15.52
+2025-11,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,337,16.0,290,15.52,290,15.52
+2025-11,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,239,42.0,239,42.0,239,42.0
+2025-11,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,188,42.0,188,42.0,188,42.0
+2025-11,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,231,42.0,213,42.0,213,42.0
+2025-11,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,196,42.0,196,42.0,196,42.0
+2025-11,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,154,42.0,154,42.0,154,42.0
+2025-11,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,121,42.0,121,42.0,121,42.0
+2025-11,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,148,42.0,136,42.0,136,42.0
+2025-11,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,126,42.0,126,42.0,126,42.0
+2025-11,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,96,42.0,96,42.0,96,42.0
+2025-11,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,75,42.0,75,42.0,75,42.0
+2025-11,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,92,42.0,85,42.0,85,42.0
+2025-11,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,79,42.0,79,42.0,79,42.0
+2025-11,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,649,14.0,649,14.0,649,14.0
+2025-11,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,510,14.0,510,14.0,510,14.0
+2025-11,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,626,14.0,576,14.0,576,14.0
+2025-11,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,533,14.0,533,14.0,533,14.0
+2025-11,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,752,14.0,752,14.0,752,14.0
+2025-11,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,590,14.0,590,14.0,590,14.0
+2025-11,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,725,14.0,667,14.0,667,14.0
+2025-11,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,617,14.0,617,14.0,617,14.0
+2025-11,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,273,14.0,273,14.0,273,14.0
+2025-11,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,215,14.0,215,14.0,215,14.0
+2025-11,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,264,14.0,243,14.0,243,14.0
+2025-11,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,224,14.0,224,14.0,224,14.0
+2025-12,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1529,18.0,1529,18.0,1529,18.0
+2025-12,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,1201,18.0,1201,18.0,1201,18.0
+2025-12,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1474,18.0,1474,18.0,1474,18.0
+2025-12,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,1256,18.0,1256,18.0,1256,18.0
+2025-12,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,655,18.0,694,18.72,694,18.72
+2025-12,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,515,18.0,546,18.72,546,18.72
+2025-12,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,632,18.0,670,18.72,670,18.72
+2025-12,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,538,18.0,570,18.72,570,18.72
+2025-12,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,946,18.0,946,18.0,946,18.0
+2025-12,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,744,18.0,744,18.0,744,18.0
+2025-12,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,913,18.0,913,18.0,913,18.0
+2025-12,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,777,18.0,777,18.0,777,18.0
+2025-12,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,764,24.0,764,24.0,764,24.0
+2025-12,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,601,24.0,601,24.0,601,24.0
+2025-12,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,737,24.0,737,24.0,737,24.0
+2025-12,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,628,24.0,628,24.0,628,24.0
+2025-12,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,510,24.0,541,24.96,541,24.96
+2025-12,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,400,24.0,424,24.96,424,24.96
+2025-12,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,491,24.0,520,24.96,520,24.96
+2025-12,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,419,24.0,444,24.96,444,24.96
+2025-12,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,328,24.0,328,24.0,328,24.0
+2025-12,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,257,24.0,257,24.0,257,24.0
+2025-12,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,316,24.0,316,24.0,316,24.0
+2025-12,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,269,24.0,269,24.0,269,24.0
+2025-12,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1856,12.5,1856,12.5,1856,12.5
+2025-12,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1459,12.5,1459,12.5,1459,12.5
+2025-12,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1790,12.5,1790,12.5,1790,12.5
+2025-12,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1525,12.5,1525,12.5,1525,12.5
+2025-12,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,328,12.5,328,12.5,328,12.5
+2025-12,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,257,12.5,257,12.5,257,12.5
+2025-12,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,316,12.5,316,12.5,316,12.5
+2025-12,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,269,12.5,269,12.5,269,12.5
+2025-12,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,1201,12.5,1033,12.12,1033,12.12
+2025-12,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,944,12.5,812,12.12,812,12.12
+2025-12,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,1158,12.5,996,12.12,996,12.12
+2025-12,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,987,12.5,849,12.12,849,12.12
+2025-12,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,1019,16.0,1019,16.0,1019,16.0
+2025-12,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,801,16.0,801,16.0,801,16.0
+2025-12,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,983,16.0,983,16.0,983,16.0
+2025-12,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,837,16.0,837,16.0,837,16.0
+2025-12,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,582,16.0,582,16.0,582,16.0
+2025-12,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,458,16.0,458,16.0,458,16.0
+2025-12,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,562,16.0,562,16.0,562,16.0
+2025-12,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,478,16.0,478,16.0,478,16.0
+2025-12,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,437,16.0,376,15.52,376,15.52
+2025-12,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,343,16.0,295,15.52,295,15.52
+2025-12,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,421,16.0,362,15.52,362,15.52
+2025-12,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,359,16.0,309,15.52,309,15.52
+2025-12,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,255,42.0,255,42.0,255,42.0
+2025-12,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,200,42.0,200,42.0,200,42.0
+2025-12,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,246,42.0,226,42.0,226,42.0
+2025-12,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,209,42.0,209,42.0,209,42.0
+2025-12,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,164,42.0,164,42.0,164,42.0
+2025-12,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,129,42.0,129,42.0,129,42.0
+2025-12,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,158,42.0,145,42.0,145,42.0
+2025-12,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,135,42.0,135,42.0,135,42.0
+2025-12,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,102,42.0,102,42.0,102,42.0
+2025-12,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,80,42.0,80,42.0,80,42.0
+2025-12,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,98,42.0,90,42.0,90,42.0
+2025-12,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,84,42.0,84,42.0,84,42.0
+2025-12,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,692,14.0,692,14.0,692,14.0
+2025-12,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,543,14.0,543,14.0,543,14.0
+2025-12,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,667,14.0,614,14.0,614,14.0
+2025-12,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,568,14.0,568,14.0,568,14.0
+2025-12,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,801,14.0,801,14.0,801,14.0
+2025-12,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,629,14.0,629,14.0,629,14.0
+2025-12,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,772,14.0,710,14.0,710,14.0
+2025-12,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,658,14.0,658,14.0,658,14.0
+2025-12,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,291,14.0,291,14.0,291,14.0
+2025-12,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,229,14.0,229,14.0,229,14.0
+2025-12,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,281,14.0,259,14.0,259,14.0
+2025-12,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,239,14.0,239,14.0,239,14.0
+2026-01,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1092,18.0,1092,18.0,1092,18.0
+2026-01,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,858,18.0,858,18.0,858,18.0
+2026-01,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1053,18.0,1053,18.0,1053,18.0
+2026-01,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,897,18.0,897,18.0,897,18.0
+2026-01,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,468,18.0,496,18.72,496,18.72
+2026-01,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,368,18.0,390,18.72,390,18.72
+2026-01,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,451,18.0,478,18.72,478,18.72
+2026-01,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,385,18.0,408,18.72,408,18.72
+2026-01,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,676,18.0,676,18.0,676,18.0
+2026-01,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,531,18.0,531,18.0,531,18.0
+2026-01,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,652,18.0,652,18.0,652,18.0
+2026-01,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,555,18.0,555,18.0,555,18.0
+2026-01,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,546,24.0,546,24.0,546,24.0
+2026-01,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,429,24.0,429,24.0,429,24.0
+2026-01,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,527,24.0,527,24.0,527,24.0
+2026-01,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,449,24.0,449,24.0,449,24.0
+2026-01,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,364,24.0,386,24.96,386,24.96
+2026-01,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,286,24.0,303,24.96,303,24.96
+2026-01,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,351,24.0,372,24.96,372,24.96
+2026-01,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,299,24.0,317,24.96,317,24.96
+2026-01,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,234,24.0,234,24.0,234,24.0
+2026-01,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,184,24.0,184,24.0,184,24.0
+2026-01,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,226,24.0,226,24.0,226,24.0
+2026-01,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,192,24.0,192,24.0,192,24.0
+2026-01,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1326,12.5,1326,12.5,1326,12.5
+2026-01,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1042,12.5,1042,12.5,1042,12.5
+2026-01,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1279,12.5,1279,12.5,1279,12.5
+2026-01,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1089,12.5,1089,12.5,1089,12.5
+2026-01,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,234,12.5,234,12.5,234,12.5
+2026-01,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,184,12.5,184,12.5,184,12.5
+2026-01,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,226,12.5,226,12.5,226,12.5
+2026-01,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,192,12.5,192,12.5,192,12.5
+2026-01,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,858,12.5,738,12.12,738,12.12
+2026-01,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,674,12.5,580,12.12,580,12.12
+2026-01,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,828,12.5,712,12.12,712,12.12
+2026-01,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,705,12.5,606,12.12,606,12.12
+2026-01,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,728,16.0,728,16.0,728,16.0
+2026-01,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,572,16.0,572,16.0,572,16.0
+2026-01,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,702,16.0,702,16.0,702,16.0
+2026-01,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,598,16.0,598,16.0,598,16.0
+2026-01,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,416,16.0,416,16.0,416,16.0
+2026-01,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,327,16.0,327,16.0,327,16.0
+2026-01,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,401,16.0,401,16.0,401,16.0
+2026-01,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,342,16.0,342,16.0,342,16.0
+2026-01,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,312,16.0,268,15.52,268,15.52
+2026-01,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,245,16.0,211,15.52,211,15.52
+2026-01,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,301,16.0,259,15.52,259,15.52
+2026-01,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,256,16.0,220,15.52,220,15.52
+2026-01,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,182,42.0,182,42.0,182,42.0
+2026-01,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,143,42.0,143,42.0,143,42.0
+2026-01,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,176,42.0,162,42.0,162,42.0
+2026-01,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,150,42.0,150,42.0,150,42.0
+2026-01,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,117,42.0,117,42.0,117,42.0
+2026-01,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,92,42.0,92,42.0,92,42.0
+2026-01,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,113,42.0,104,42.0,104,42.0
+2026-01,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,96,42.0,96,42.0,96,42.0
+2026-01,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,73,42.0,73,42.0,73,42.0
+2026-01,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,57,42.0,57,42.0,57,42.0
+2026-01,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,70,42.0,64,42.0,64,42.0
+2026-01,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,60,42.0,60,42.0,60,42.0
+2026-01,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,494,14.0,494,14.0,494,14.0
+2026-01,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,388,14.0,388,14.0,388,14.0
+2026-01,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,476,14.0,438,14.0,438,14.0
+2026-01,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,406,14.0,406,14.0,406,14.0
+2026-01,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,572,14.0,572,14.0,572,14.0
+2026-01,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,450,14.0,450,14.0,450,14.0
+2026-01,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,552,14.0,508,14.0,508,14.0
+2026-01,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,470,14.0,470,14.0,470,14.0
+2026-01,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,208,14.0,208,14.0,208,14.0
+2026-01,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,163,14.0,163,14.0,163,14.0
+2026-01,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,201,14.0,185,14.0,185,14.0
+2026-01,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,171,14.0,171,14.0,171,14.0
+2026-02,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1143,18.0,1143,18.0,1143,18.0
+2026-02,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,898,18.0,898,18.0,898,18.0
+2026-02,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1102,18.0,1102,18.0,1102,18.0
+2026-02,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,939,18.0,939,18.0,939,18.0
+2026-02,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,490,18.0,519,18.72,519,18.72
+2026-02,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,385,18.0,408,18.72,408,18.72
+2026-02,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,472,18.0,500,18.72,500,18.72
+2026-02,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,402,18.0,426,18.72,426,18.72
+2026-02,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,708,18.0,708,18.0,708,18.0
+2026-02,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,556,18.0,556,18.0,556,18.0
+2026-02,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,682,18.0,682,18.0,682,18.0
+2026-02,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,581,18.0,581,18.0,581,18.0
+2026-02,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,572,24.0,572,24.0,572,24.0
+2026-02,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,449,24.0,449,24.0,449,24.0
+2026-02,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,551,24.0,551,24.0,551,24.0
+2026-02,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,469,24.0,469,24.0,469,24.0
+2026-02,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,381,24.0,404,24.96,404,24.96
+2026-02,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,299,24.0,317,24.96,317,24.96
+2026-02,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,367,24.0,389,24.96,389,24.96
+2026-02,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,313,24.0,332,24.96,332,24.96
+2026-02,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,245,24.0,245,24.0,245,24.0
+2026-02,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,192,24.0,192,24.0,192,24.0
+2026-02,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,236,24.0,236,24.0,236,24.0
+2026-02,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,201,24.0,201,24.0,201,24.0
+2026-02,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1388,12.5,1388,12.5,1388,12.5
+2026-02,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1091,12.5,1091,12.5,1091,12.5
+2026-02,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1338,12.5,1338,12.5,1338,12.5
+2026-02,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1140,12.5,1140,12.5,1140,12.5
+2026-02,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,245,12.5,245,12.5,245,12.5
+2026-02,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,192,12.5,192,12.5,192,12.5
+2026-02,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,236,12.5,236,12.5,236,12.5
+2026-02,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,201,12.5,201,12.5,201,12.5
+2026-02,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,898,12.5,772,12.12,772,12.12
+2026-02,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,706,12.5,607,12.12,607,12.12
+2026-02,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,866,12.5,745,12.12,745,12.12
+2026-02,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,738,12.5,635,12.12,635,12.12
+2026-02,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,762,16.0,762,16.0,762,16.0
+2026-02,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,599,16.0,599,16.0,599,16.0
+2026-02,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,735,16.0,735,16.0,735,16.0
+2026-02,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,626,16.0,626,16.0,626,16.0
+2026-02,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,435,16.0,435,16.0,435,16.0
+2026-02,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,342,16.0,342,16.0,342,16.0
+2026-02,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,420,16.0,420,16.0,420,16.0
+2026-02,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,358,16.0,358,16.0,358,16.0
+2026-02,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,327,16.0,281,15.52,281,15.52
+2026-02,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,257,16.0,221,15.52,221,15.52
+2026-02,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,315,16.0,271,15.52,271,15.52
+2026-02,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,268,16.0,230,15.52,230,15.52
+2026-02,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,191,42.0,191,42.0,191,42.0
+2026-02,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,150,42.0,150,42.0,150,42.0
+2026-02,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,184,42.0,169,42.0,169,42.0
+2026-02,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,156,42.0,156,42.0,156,42.0
+2026-02,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,122,42.0,122,42.0,122,42.0
+2026-02,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,96,42.0,96,42.0,96,42.0
+2026-02,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,118,42.0,109,42.0,109,42.0
+2026-02,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,101,42.0,101,42.0,101,42.0
+2026-02,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,76,42.0,76,42.0,76,42.0
+2026-02,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,60,42.0,60,42.0,60,42.0
+2026-02,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,73,42.0,67,42.0,67,42.0
+2026-02,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,63,42.0,63,42.0,63,42.0
+2026-02,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,517,14.0,517,14.0,517,14.0
+2026-02,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,406,14.0,406,14.0,406,14.0
+2026-02,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,499,14.0,459,14.0,459,14.0
+2026-02,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,425,14.0,425,14.0,425,14.0
+2026-02,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,599,14.0,599,14.0,599,14.0
+2026-02,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,470,14.0,470,14.0,470,14.0
+2026-02,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,577,14.0,531,14.0,531,14.0
+2026-02,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,492,14.0,492,14.0,492,14.0
+2026-02,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,218,14.0,218,14.0,218,14.0
+2026-02,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,171,14.0,171,14.0,171,14.0
+2026-02,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,210,14.0,193,14.0,193,14.0
+2026-02,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,179,14.0,179,14.0,179,14.0
+2026-03,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1245,18.0,1245,18.0,1245,18.0
+2026-03,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,978,18.0,978,18.0,978,18.0
+2026-03,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1200,18.0,1200,18.0,1200,18.0
+2026-03,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,1022,18.0,1022,18.0,1022,18.0
+2026-03,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,533,18.0,565,18.72,565,18.72
+2026-03,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,419,18.0,444,18.72,444,18.72
+2026-03,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,514,18.0,545,18.72,545,18.72
+2026-03,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,438,18.0,464,18.72,464,18.72
+2026-03,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,771,18.0,771,18.0,771,18.0
+2026-03,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,605,18.0,605,18.0,605,18.0
+2026-03,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,743,18.0,743,18.0,743,18.0
+2026-03,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,633,18.0,633,18.0,633,18.0
+2026-03,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,622,24.0,622,24.0,622,24.0
+2026-03,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,489,24.0,489,24.0,489,24.0
+2026-03,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,600,24.0,600,24.0,600,24.0
+2026-03,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,511,24.0,511,24.0,511,24.0
+2026-03,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,415,24.0,440,24.96,440,24.96
+2026-03,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,326,24.0,346,24.96,346,24.96
+2026-03,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,400,24.0,424,24.96,424,24.96
+2026-03,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,341,24.0,361,24.96,361,24.96
+2026-03,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,267,24.0,267,24.0,267,24.0
+2026-03,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,210,24.0,210,24.0,210,24.0
+2026-03,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,257,24.0,257,24.0,257,24.0
+2026-03,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,219,24.0,219,24.0,219,24.0
+2026-03,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1511,12.5,1511,12.5,1511,12.5
+2026-03,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1188,12.5,1188,12.5,1188,12.5
+2026-03,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1457,12.5,1457,12.5,1457,12.5
+2026-03,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1242,12.5,1242,12.5,1242,12.5
+2026-03,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,267,12.5,267,12.5,267,12.5
+2026-03,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,210,12.5,210,12.5,210,12.5
+2026-03,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,257,12.5,257,12.5,257,12.5
+2026-03,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,219,12.5,219,12.5,219,12.5
+2026-03,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,978,12.5,841,12.12,841,12.12
+2026-03,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,768,12.5,660,12.12,660,12.12
+2026-03,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,943,12.5,811,12.12,811,12.12
+2026-03,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,803,12.5,691,12.12,691,12.12
+2026-03,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,830,16.0,830,16.0,830,16.0
+2026-03,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,652,16.0,652,16.0,652,16.0
+2026-03,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,800,16.0,800,16.0,800,16.0
+2026-03,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,682,16.0,682,16.0,682,16.0
+2026-03,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,474,16.0,474,16.0,474,16.0
+2026-03,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,373,16.0,373,16.0,373,16.0
+2026-03,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,457,16.0,457,16.0,457,16.0
+2026-03,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,389,16.0,389,16.0,389,16.0
+2026-03,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,356,16.0,306,15.52,306,15.52
+2026-03,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,279,16.0,240,15.52,240,15.52
+2026-03,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,343,16.0,295,15.52,295,15.52
+2026-03,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,292,16.0,251,15.52,251,15.52
+2026-03,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,207,42.0,207,42.0,207,42.0
+2026-03,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,163,42.0,163,42.0,163,42.0
+2026-03,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,200,42.0,184,42.0,184,42.0
+2026-03,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,170,42.0,170,42.0,170,42.0
+2026-03,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,133,42.0,133,42.0,133,42.0
+2026-03,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,105,42.0,105,42.0,105,42.0
+2026-03,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,129,42.0,119,42.0,119,42.0
+2026-03,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,110,42.0,110,42.0,110,42.0
+2026-03,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,83,42.0,83,42.0,83,42.0
+2026-03,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,65,42.0,65,42.0,65,42.0
+2026-03,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,80,42.0,74,42.0,74,42.0
+2026-03,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,68,42.0,68,42.0,68,42.0
+2026-03,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,563,14.0,563,14.0,563,14.0
+2026-03,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,442,14.0,442,14.0,442,14.0
+2026-03,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,543,14.0,500,14.0,500,14.0
+2026-03,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,463,14.0,463,14.0,463,14.0
+2026-03,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,652,14.0,652,14.0,652,14.0
+2026-03,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,512,14.0,512,14.0,512,14.0
+2026-03,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,629,14.0,579,14.0,579,14.0
+2026-03,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,536,14.0,536,14.0,536,14.0
+2026-03,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,237,14.0,237,14.0,237,14.0
+2026-03,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,186,14.0,186,14.0,186,14.0
+2026-03,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,229,14.0,211,14.0,211,14.0
+2026-03,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,195,14.0,195,14.0,195,14.0
+2026-04,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1321,18.0,,,1347,18.0
+2026-04,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,1038,18.0,,,1059,18.0
+2026-04,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1274,18.0,,,1299,18.0
+2026-04,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,1085,18.0,,,1107,18.0
+2026-04,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,566,18.0,,,577,18.0
+2026-04,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,445,18.0,,,454,18.0
+2026-04,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,546,18.0,,,557,18.0
+2026-04,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,465,18.0,,,474,18.0
+2026-04,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,818,18.0,,,834,18.0
+2026-04,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,642,18.0,,,655,18.0
+2026-04,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,788,18.0,,,804,18.0
+2026-04,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,672,18.0,,,685,18.0
+2026-04,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,660,24.0,,,673,24.0
+2026-04,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,519,24.0,,,529,24.0
+2026-04,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,637,24.0,,,650,24.0
+2026-04,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,543,24.0,,,554,24.0
+2026-04,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,440,24.0,,,449,24.0
+2026-04,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,346,24.0,,,353,24.0
+2026-04,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,425,24.0,,,434,24.0
+2026-04,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,362,24.0,,,369,24.0
+2026-04,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,283,24.0,,,289,24.0
+2026-04,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,222,24.0,,,226,24.0
+2026-04,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,273,24.0,,,278,24.0
+2026-04,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,233,24.0,,,238,24.0
+2026-04,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1604,12.5,,,1636,12.5
+2026-04,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1260,12.5,,,1285,12.5
+2026-04,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1547,12.5,,,1578,12.5
+2026-04,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1318,12.5,,,1344,12.5
+2026-04,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,283,12.5,,,289,12.5
+2026-04,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,222,12.5,,,226,12.5
+2026-04,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,273,12.5,,,278,12.5
+2026-04,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,233,12.5,,,238,12.5
+2026-04,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,1038,12.5,,,934,12.5
+2026-04,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,815,12.5,,,734,12.5
+2026-04,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,1001,12.5,,,901,12.5
+2026-04,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,853,12.5,,,768,12.5
+2026-04,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,881,16.0,,,899,16.0
+2026-04,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,692,16.0,,,706,16.0
+2026-04,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,849,16.0,,,866,16.0
+2026-04,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,723,16.0,,,737,16.0
+2026-04,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,503,16.0,,,513,16.0
+2026-04,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,395,16.0,,,403,16.0
+2026-04,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,485,16.0,,,495,16.0
+2026-04,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,413,16.0,,,421,16.0
+2026-04,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,377,16.0,,,339,16.0
+2026-04,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,297,16.0,,,267,16.0
+2026-04,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,364,16.0,,,328,16.0
+2026-04,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,310,16.0,,,279,16.0
+2026-04,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,220,42.0,,,224,42.0
+2026-04,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,173,42.0,,,176,42.0
+2026-04,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,212,42.0,,,216,42.0
+2026-04,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,181,42.0,,,185,42.0
+2026-04,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,142,42.0,,,145,42.0
+2026-04,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,111,42.0,,,113,42.0
+2026-04,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,136,42.0,,,139,42.0
+2026-04,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,116,42.0,,,118,42.0
+2026-04,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,88,42.0,,,90,42.0
+2026-04,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,69,42.0,,,70,42.0
+2026-04,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,85,42.0,,,87,42.0
+2026-04,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,72,42.0,,,73,42.0
+2026-04,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,598,14.0,,,610,14.0
+2026-04,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,469,14.0,,,478,14.0
+2026-04,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,576,14.0,,,588,14.0
+2026-04,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,491,14.0,,,501,14.0
+2026-04,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,692,14.0,,,706,14.0
+2026-04,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,544,14.0,,,555,14.0
+2026-04,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,667,14.0,,,680,14.0
+2026-04,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,568,14.0,,,579,14.0
+2026-04,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,252,14.0,,,257,14.0
+2026-04,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,198,14.0,,,202,14.0
+2026-04,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,243,14.0,,,248,14.0
+2026-04,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,207,14.0,,,211,14.0
+2026-05,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1372,18.0,,,1399,18.0
+2026-05,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,1078,18.0,,,1100,18.0
+2026-05,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1323,18.0,,,1349,18.0
+2026-05,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,1127,18.0,,,1150,18.0
+2026-05,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,588,18.0,,,600,18.0
+2026-05,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,462,18.0,,,471,18.0
+2026-05,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,567,18.0,,,578,18.0
+2026-05,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,483,18.0,,,493,18.0
+2026-05,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,849,18.0,,,866,18.0
+2026-05,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,667,18.0,,,680,18.0
+2026-05,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,819,18.0,,,835,18.0
+2026-05,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,698,18.0,,,712,18.0
+2026-05,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,686,24.0,,,700,24.0
+2026-05,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,539,24.0,,,550,24.0
+2026-05,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,661,24.0,,,674,24.0
+2026-05,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,563,24.0,,,574,24.0
+2026-05,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,457,24.0,,,466,24.0
+2026-05,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,359,24.0,,,366,24.0
+2026-05,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,441,24.0,,,450,24.0
+2026-05,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,376,24.0,,,384,24.0
+2026-05,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,294,24.0,,,300,24.0
+2026-05,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,231,24.0,,,236,24.0
+2026-05,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,283,24.0,,,289,24.0
+2026-05,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,241,24.0,,,246,24.0
+2026-05,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1666,12.5,,,1699,12.5
+2026-05,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1309,12.5,,,1335,12.5
+2026-05,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1606,12.5,,,1638,12.5
+2026-05,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1368,12.5,,,1395,12.5
+2026-05,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,294,12.5,,,300,12.5
+2026-05,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,231,12.5,,,236,12.5
+2026-05,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,283,12.5,,,289,12.5
+2026-05,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,241,12.5,,,246,12.5
+2026-05,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,1078,12.5,,,970,12.5
+2026-05,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,847,12.5,,,762,12.5
+2026-05,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,1039,12.5,,,935,12.5
+2026-05,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,885,12.5,,,796,12.5
+2026-05,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,914,16.0,,,932,16.0
+2026-05,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,719,16.0,,,733,16.0
+2026-05,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,882,16.0,,,900,16.0
+2026-05,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,751,16.0,,,766,16.0
+2026-05,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,523,16.0,,,533,16.0
+2026-05,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,411,16.0,,,419,16.0
+2026-05,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,504,16.0,,,514,16.0
+2026-05,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,429,16.0,,,438,16.0
+2026-05,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,392,16.0,,,353,16.0
+2026-05,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,308,16.0,,,277,16.0
+2026-05,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,378,16.0,,,340,16.0
+2026-05,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,322,16.0,,,290,16.0
+2026-05,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,229,42.0,,,234,42.0
+2026-05,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,180,42.0,,,184,42.0
+2026-05,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,220,42.0,,,224,42.0
+2026-05,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,188,42.0,,,192,42.0
+2026-05,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,147,42.0,,,150,42.0
+2026-05,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,115,42.0,,,117,42.0
+2026-05,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,142,42.0,,,145,42.0
+2026-05,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,121,42.0,,,123,42.0
+2026-05,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,91,42.0,,,93,42.0
+2026-05,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,72,42.0,,,73,42.0
+2026-05,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,88,42.0,,,90,42.0
+2026-05,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,75,42.0,,,76,42.0
+2026-05,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,621,14.0,,,633,14.0
+2026-05,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,488,14.0,,,498,14.0
+2026-05,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,598,14.0,,,610,14.0
+2026-05,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,510,14.0,,,520,14.0
+2026-05,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,719,14.0,,,733,14.0
+2026-05,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,565,14.0,,,576,14.0
+2026-05,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,693,14.0,,,707,14.0
+2026-05,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,590,14.0,,,602,14.0
+2026-05,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,261,14.0,,,266,14.0
+2026-05,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,205,14.0,,,209,14.0
+2026-05,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,252,14.0,,,257,14.0
+2026-05,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,215,14.0,,,219,14.0
+2026-06,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Northeast,18.0,7.4,1422,18.0,,,1450,18.0
+2026-06,SKU-100,Ridge Bottle 24oz,Hydration,Retail,Midwest,18.0,7.4,1118,18.0,,,1140,18.0
+2026-06,SKU-100,Ridge Bottle 24oz,Hydration,Retail,South,18.0,7.4,1372,18.0,,,1399,18.0
+2026-06,SKU-100,Ridge Bottle 24oz,Hydration,Retail,West,18.0,7.4,1168,18.0,,,1191,18.0
+2026-06,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Northeast,18.0,7.4,610,18.0,,,622,18.0
+2026-06,SKU-100,Ridge Bottle 24oz,Hydration,DTC,Midwest,18.0,7.4,479,18.0,,,489,18.0
+2026-06,SKU-100,Ridge Bottle 24oz,Hydration,DTC,South,18.0,7.4,588,18.0,,,600,18.0
+2026-06,SKU-100,Ridge Bottle 24oz,Hydration,DTC,West,18.0,7.4,501,18.0,,,511,18.0
+2026-06,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Northeast,18.0,7.4,881,18.0,,,899,18.0
+2026-06,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,Midwest,18.0,7.4,692,18.0,,,706,18.0
+2026-06,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,South,18.0,7.4,849,18.0,,,866,18.0
+2026-06,SKU-100,Ridge Bottle 24oz,Hydration,Wholesale,West,18.0,7.4,723,18.0,,,737,18.0
+2026-06,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Northeast,24.0,9.1,711,24.0,,,725,24.0
+2026-06,SKU-110,Ridge Bottle 32oz,Hydration,Retail,Midwest,24.0,9.1,559,24.0,,,570,24.0
+2026-06,SKU-110,Ridge Bottle 32oz,Hydration,Retail,South,24.0,9.1,686,24.0,,,700,24.0
+2026-06,SKU-110,Ridge Bottle 32oz,Hydration,Retail,West,24.0,9.1,584,24.0,,,596,24.0
+2026-06,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Northeast,24.0,9.1,474,24.0,,,483,24.0
+2026-06,SKU-110,Ridge Bottle 32oz,Hydration,DTC,Midwest,24.0,9.1,373,24.0,,,380,24.0
+2026-06,SKU-110,Ridge Bottle 32oz,Hydration,DTC,South,24.0,9.1,457,24.0,,,466,24.0
+2026-06,SKU-110,Ridge Bottle 32oz,Hydration,DTC,West,24.0,9.1,389,24.0,,,397,24.0
+2026-06,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Northeast,24.0,9.1,305,24.0,,,311,24.0
+2026-06,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,Midwest,24.0,9.1,240,24.0,,,245,24.0
+2026-06,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,South,24.0,9.1,294,24.0,,,300,24.0
+2026-06,SKU-110,Ridge Bottle 32oz,Hydration,Wholesale,West,24.0,9.1,250,24.0,,,255,24.0
+2026-06,SKU-210,Trail Mix 8pk,Snacks,Retail,Northeast,12.5,6.2,1727,12.5,,,1762,12.5
+2026-06,SKU-210,Trail Mix 8pk,Snacks,Retail,Midwest,12.5,6.2,1357,12.5,,,1384,12.5
+2026-06,SKU-210,Trail Mix 8pk,Snacks,Retail,South,12.5,6.2,1666,12.5,,,1699,12.5
+2026-06,SKU-210,Trail Mix 8pk,Snacks,Retail,West,12.5,6.2,1419,12.5,,,1447,12.5
+2026-06,SKU-210,Trail Mix 8pk,Snacks,DTC,Northeast,12.5,6.2,305,12.5,,,311,12.5
+2026-06,SKU-210,Trail Mix 8pk,Snacks,DTC,Midwest,12.5,6.2,240,12.5,,,245,12.5
+2026-06,SKU-210,Trail Mix 8pk,Snacks,DTC,South,12.5,6.2,294,12.5,,,300,12.5
+2026-06,SKU-210,Trail Mix 8pk,Snacks,DTC,West,12.5,6.2,250,12.5,,,255,12.5
+2026-06,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Northeast,12.5,6.2,1118,12.5,,,1006,12.5
+2026-06,SKU-210,Trail Mix 8pk,Snacks,Wholesale,Midwest,12.5,6.2,878,12.5,,,790,12.5
+2026-06,SKU-210,Trail Mix 8pk,Snacks,Wholesale,South,12.5,6.2,1078,12.5,,,970,12.5
+2026-06,SKU-210,Trail Mix 8pk,Snacks,Wholesale,West,12.5,6.2,918,12.5,,,826,12.5
+2026-06,SKU-220,Protein Bar 12pk,Snacks,Retail,Northeast,16.0,7.8,948,16.0,,,967,16.0
+2026-06,SKU-220,Protein Bar 12pk,Snacks,Retail,Midwest,16.0,7.8,745,16.0,,,760,16.0
+2026-06,SKU-220,Protein Bar 12pk,Snacks,Retail,South,16.0,7.8,914,16.0,,,932,16.0
+2026-06,SKU-220,Protein Bar 12pk,Snacks,Retail,West,16.0,7.8,779,16.0,,,795,16.0
+2026-06,SKU-220,Protein Bar 12pk,Snacks,DTC,Northeast,16.0,7.8,542,16.0,,,553,16.0
+2026-06,SKU-220,Protein Bar 12pk,Snacks,DTC,Midwest,16.0,7.8,426,16.0,,,435,16.0
+2026-06,SKU-220,Protein Bar 12pk,Snacks,DTC,South,16.0,7.8,523,16.0,,,533,16.0
+2026-06,SKU-220,Protein Bar 12pk,Snacks,DTC,West,16.0,7.8,445,16.0,,,454,16.0
+2026-06,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Northeast,16.0,7.8,406,16.0,,,365,16.0
+2026-06,SKU-220,Protein Bar 12pk,Snacks,Wholesale,Midwest,16.0,7.8,319,16.0,,,287,16.0
+2026-06,SKU-220,Protein Bar 12pk,Snacks,Wholesale,South,16.0,7.8,392,16.0,,,353,16.0
+2026-06,SKU-220,Protein Bar 12pk,Snacks,Wholesale,West,16.0,7.8,334,16.0,,,301,16.0
+2026-06,SKU-310,Desk Lamp,Home,Retail,Northeast,42.0,19.5,237,42.0,,,242,42.0
+2026-06,SKU-310,Desk Lamp,Home,Retail,Midwest,42.0,19.5,186,42.0,,,190,42.0
+2026-06,SKU-310,Desk Lamp,Home,Retail,South,42.0,19.5,229,42.0,,,234,42.0
+2026-06,SKU-310,Desk Lamp,Home,Retail,West,42.0,19.5,195,42.0,,,199,42.0
+2026-06,SKU-310,Desk Lamp,Home,DTC,Northeast,42.0,19.5,152,42.0,,,155,42.0
+2026-06,SKU-310,Desk Lamp,Home,DTC,Midwest,42.0,19.5,120,42.0,,,122,42.0
+2026-06,SKU-310,Desk Lamp,Home,DTC,South,42.0,19.5,147,42.0,,,150,42.0
+2026-06,SKU-310,Desk Lamp,Home,DTC,West,42.0,19.5,125,42.0,,,128,42.0
+2026-06,SKU-310,Desk Lamp,Home,Wholesale,Northeast,42.0,19.5,95,42.0,,,97,42.0
+2026-06,SKU-310,Desk Lamp,Home,Wholesale,Midwest,42.0,19.5,75,42.0,,,76,42.0
+2026-06,SKU-310,Desk Lamp,Home,Wholesale,South,42.0,19.5,91,42.0,,,93,42.0
+2026-06,SKU-310,Desk Lamp,Home,Wholesale,West,42.0,19.5,78,42.0,,,80,42.0
+2026-06,SKU-320,Cable Organizer,Home,Retail,Northeast,14.0,4.6,644,14.0,,,657,14.0
+2026-06,SKU-320,Cable Organizer,Home,Retail,Midwest,14.0,4.6,506,14.0,,,516,14.0
+2026-06,SKU-320,Cable Organizer,Home,Retail,South,14.0,4.6,621,14.0,,,633,14.0
+2026-06,SKU-320,Cable Organizer,Home,Retail,West,14.0,4.6,529,14.0,,,540,14.0
+2026-06,SKU-320,Cable Organizer,Home,DTC,Northeast,14.0,4.6,745,14.0,,,760,14.0
+2026-06,SKU-320,Cable Organizer,Home,DTC,Midwest,14.0,4.6,585,14.0,,,597,14.0
+2026-06,SKU-320,Cable Organizer,Home,DTC,South,14.0,4.6,719,14.0,,,733,14.0
+2026-06,SKU-320,Cable Organizer,Home,DTC,West,14.0,4.6,612,14.0,,,624,14.0
+2026-06,SKU-320,Cable Organizer,Home,Wholesale,Northeast,14.0,4.6,271,14.0,,,276,14.0
+2026-06,SKU-320,Cable Organizer,Home,Wholesale,Midwest,14.0,4.6,213,14.0,,,217,14.0
+2026-06,SKU-320,Cable Organizer,Home,Wholesale,South,14.0,4.6,261,14.0,,,266,14.0
+2026-06,SKU-320,Cable Organizer,Home,Wholesale,West,14.0,4.6,223,14.0,,,227,14.0
