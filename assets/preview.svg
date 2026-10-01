@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="294" viewBox="0 0 880 294">
+<rect width="100%" height="100%" fill="#0b1220"/>
+<text x="28" y="36" fill="#f8fafc" font-family="Georgia, serif" font-size="20">March 2026 revenue vs budget</text>
+<text x="28" y="58" fill="#94a3b8" font-family="ui-sans-serif, sans-serif" font-size="13">Northline Consumer Products · fictional · dollars</text>
+<text x="28" y="96" fill="#e2e8f0" font-family="ui-sans-serif, sans-serif" font-size="14">DTC</text>
+<rect x="250" y="78" width="211.0" height="26" rx="3" fill="#22c55e"/>
+<text x="471.0" y="96" fill="#f8fafc" font-family="ui-sans-serif, sans-serif" font-size="14">+6,029</text>
+<text x="28" y="142" fill="#e2e8f0" font-family="ui-sans-serif, sans-serif" font-size="14">Retail</text>
+<rect x="250" y="124" width="44.6" height="26" rx="3" fill="#f59e0b"/>
+<text x="304.6" y="142" fill="#f8fafc" font-family="ui-sans-serif, sans-serif" font-size="14">−1,274</text>
+<text x="28" y="188" fill="#e2e8f0" font-family="ui-sans-serif, sans-serif" font-size="14">Wholesale</text>
+<rect x="250" y="170" width="389.6" height="26" rx="3" fill="#ef4444"/>
+<text x="649.5" y="188" fill="#f8fafc" font-family="ui-sans-serif, sans-serif" font-size="14">−11,130</text>
+<text x="28" y="234" fill="#e2e8f0" font-family="ui-sans-serif, sans-serif" font-size="14">Total</text>
+<rect x="250" y="216" width="223.1" height="26" rx="3" fill="#94a3b8"/>
+<text x="483.1" y="234" fill="#f8fafc" font-family="ui-sans-serif, sans-serif" font-size="14">−6,375</text>
+</svg>

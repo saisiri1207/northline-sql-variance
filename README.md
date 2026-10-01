@@ -38,3 +38,5 @@ That loads `data/` into SQLite and writes one CSV per query under `output/`.
 | `sql/05_executive_flash.sql` | One-row close flash |
 
 Stack: SQL (SQLite) · pandas. Same grain an FP&A analyst would pull from a warehouse.
+
+![Preview](assets/preview.svg)
